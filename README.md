@@ -1,2 +1,7 @@
 # MLzoomcamp
-Homeworks submitted to ML Zoomcamp September 2023 Cohort for Grading
+Midterm Project.
+A machine learning model that predicts the salary of a data professional based on some features.
+Dataset: Acquired for kaggle
+
+Usage
+
