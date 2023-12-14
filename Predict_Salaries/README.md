@@ -8,6 +8,8 @@ How to make predictions with the model:
 
 Clone this repository  
 
+Change your working directory to the Predict_Salaries directory  
+
 Use pipenv to install the dependencies from the pipfile
 ```
 pip install pipenv
