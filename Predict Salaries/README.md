@@ -1,9 +1,12 @@
 # MLzoomcamp
 **Midterm Project**  
 This projects predicts salary of a data professional due to certain features like work_year, experience_level, employment_type, job_title, salary_currency, salary_in_usd, employee_residence, remote_ratio,company_location and company_size.  
+
 **Dataset:**  
 Available on Kaggle at https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023/data?select=ds_salaries.csv  
 How to make predictions with the model:  
+
+Clone this repository  
 
 Use pipenv to install the dependencies from the pipfile
 ```
