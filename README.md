@@ -1,3 +1,3 @@
 # MLzoomcamp
-Submissions to MLzoomcamp assignemnts and Projects
+Submissions to MLzoomcamp assignments and Projects
 
