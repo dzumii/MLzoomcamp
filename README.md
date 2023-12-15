@@ -1,3 +1,3 @@
 # MLzoomcamp
-Submissions to MLzoomcamp assignments and Projects
+Submissions to MLzoomcamp 2023 Cohort's assignments and Projects
 
